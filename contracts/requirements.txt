@@ -1,0 +1,3 @@
+earthengine-api>=0.1.350
+google-generativeai>=0.3.0
+
